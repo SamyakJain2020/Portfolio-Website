@@ -1,0 +1,118 @@
+{
+  "main": {
+    "name": "Samyak Jain",
+    "occupation": "Full Stack Web Developer",
+    "description": "Blockchain and ML Enthusiast",
+    "image": "Photo_2020.jpg",
+    "bio": "Hi there! I am Samyak ",
+    "contactmessage": "Get in touch with me",
+    "email": "2samyakj@gmail.com",
+    "phone": "9167744333",
+    "address": {
+      "street": "303,Zinnia",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "zip": "300072"
+    },
+    "website": "",
+    "resumedownload": "https://drive.google.com/file/d/1fPb0fwMd31dWZK-_Xejar37fm00pvWzs/view?usp=sharing",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/samyak-j-8442a2141/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/samyak190/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/SamyakJain2020",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Pune Institue Of Computer Technology - PICT",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "July 2024",
+        "description": "Still Studying",
+        "later":"Graduated with First Class Honours"
+      }
+    ],
+    "work":[],
+    "_comment.work": [
+      {
+        "company": "PAPA",
+        "title": "Founder and CEO",
+        "years": "May 2019 - Present",
+        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "Python",
+        "level": "55%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "60%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      },
+      {
+        "name": "Node",
+        "level": "15%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Meme Generator (React JS)",
+        "category": "React",
+        "image": "Capture.PNG",
+        "url": "https://samyakjain2020.github.io/meme-generator-React/"
+      },
+      {
+        "title": "Todo - Dapp (Solidity-React)",
+        "category": "Blockchain React Solidity",
+        "image": "Todo-Dapp.PNG",
+        "url": "https://samyakjain2020.github.io/Todo-Dapp/"
+      },
+      {
+        "title": "Todo Application(Node JS)",
+        "category": "Node.js Backend ",
+        "image": "Todo-Node.PNG",
+        "url": "https://peaceful-cliffs-93383.herokuapp.com/"
+      }
+    ]
+  },
+  "_comments": {
+    "testimonials": [
+      {
+        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Jorge Fouto"
+      },
+      {
+        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Adam Curtis"
+      }
+    ]
+  }
+}
